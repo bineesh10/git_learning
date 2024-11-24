@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tea Cozy</title>
+    <link rel="stylesheet" href="media/css/style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1 class="logo">The Tea Cozy</h1>
+        <nav>
+            <ul>
+                <li><a href="#mission">Mission</a></li>
+                <li><a href="#featured-tea">Featured Tea</a></li>
+                <li><a href="#locations">Locations</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Mission Section -->
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <h4>Handpicked, Artisanally Curated, Free Range, Sustainable, Small Batch, Fair Trade, Organic Tea</h4>
+    </section>
+
+    <!-- Tea of the Month Section -->
+    <section id="featured-tea">
+        <h2>Tea of the Month</h2>
+        <div class="tea-items">
+            
+            <figure>
+                <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg" alt="Fall Berry Blitz Tea">
+                <figcaption >Fall Berry Blitz Tea</figcaption>
+            </figure>
+            
+            
+            <figure>
+                <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg" alt="Spiced Rum Tea">
+                <figcaption>Spiced Rum Tea</figcaption>
+            </figure>
+        
+        
+            <figure>
+                <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg" alt="Seasonal Donuts">
+                <figcaption>Seasonal Donuts</figcaption>
+            </figure>
+        
+            <figure>
+                <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg" alt="Myrtle Ave Tea">
+                <figcaption>Myrtle Ave Tea</figcaption>
+            </figure>
+        
+        <figure>
+                <img src="https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg" alt="Bedford Bizarre Tea">
+                <figcaption>Bedford Bizarre Tea</figcaption>
+            </figure>
+            
+        </div>
+    </section>
+
+    <!-- Locations Section -->
+    <section id="locations">
+        <h2>Locations</h2>
+        <div class="location-grid">
+            <div class="location">
+                <h3>Downtown</h3>
+                <p>384 West 4th St <br> Suite 108 <br> Portland, Maine</p>
+            </div>
+            <div class="location">
+                <h3>East Bayside</h3>
+                <p>3433 Phisherman's Avenue <br> (Northwest Corner) <br> Portland, Maine</p>
+            </div>
+            <div class="location">
+                <h3>Oakdale</h3>
+                <p>515 Crescent Avenue <br> Second Floor <br> Portland, Maine</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Contact: contact@theteacozy.com</p>
+        <p>Phone: 917-555-8904</p>
+        <p>&copy; 2017 The Tea Cozy</p>
+    </footer>
+</body>
+</html>
