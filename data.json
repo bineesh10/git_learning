@@ -1,0 +1,17 @@
+{
+  "uk": {
+    "language": "English",
+    "continent": "Europe",
+    "population": "67 million"
+  },
+  "spain": {
+    "language": "Spanish",
+    "continent": "Europe",
+    "population": "47 million"
+  },
+  "germany": {
+    "language": "German",
+    "continent": "Europe",
+    "population": "83 million"
+  }
+}
